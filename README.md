@@ -1,4 +1,4 @@
-### Helo, I'm Anees 👋
+### Hello, I'm Anees 👋
 
 ---
 
