@@ -2,6 +2,6 @@
 
 ---
 
-I am a Computer Science and Engineering student who is interested in the fields of web development, machine learning and data science. Here you will find some of my machine learning related iPython notebooks, other projects, and scripts. You can also check out some of my exploratory data analysis projects on [kaggle](https://www.kaggle.com/aneesasghar).
+I'm pursuing a BSc in Computer Science and Engineering at the Instituto Superior Técnico. My passion lies in software development, and I enjoy exploring new areas and technologies within the field.
 
 📫 How to reach me: aneesasgharsyed@gmail.com
